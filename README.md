@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner/banner.png" width="100%" alt="Banner de Perfil de Benjamin Pereira Herrera">
+<img src="/assets/banner/banner.png" width="100%" alt="Banner de Perfil de Benjamin Pereira Herrera">
 
 # Benjamin Pereira Herrera
 
