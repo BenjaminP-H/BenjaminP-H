@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets\banner\banner.jpg" width="100%" alt="Banner de Perfil de Benjamin Pereira Herrera">
+<img src="./assets/banner/banner.jpg" width="100%" alt="Banner de perfil de Benjamin Pereira Herrera">
 
 # Benjamin Pereira Herrera
 
@@ -10,13 +10,46 @@ San Miguel de Tucumán, Argentina
 
 Desarrollo soluciones web orientadas a resolver problemas reales, con experiencia en proyectos personales, académicos y una pasantía en desarrollo de software. Actualmente continúo fortaleciendo mis conocimientos en backend, bases de datos, automatización y herramientas aplicadas al desarrollo.
 
+<p>
+
+<a href="mailto:benjaminpereina@gmail.com">
+  <img src="https://img.shields.io/badge/Correo-Contactarme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo electrónico">
+</a>
+
+<a href="https://www.linkedin.com/in/benjam%C3%ADn-pereira-herrera/">
+  <img src="https://img.shields.io/badge/LinkedIn-Ver_perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://github.com/BenjaminP-H">
+  <img src="https://img.shields.io/badge/GitHub-Repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+</p>
+
 </div>
+
+---
+
+## Navegación
+
+- [Proyectos personales](#proyectos-personales)
+- [Experiencia profesional](#experiencia-profesional)
+- [Tecnologías y herramientas](#tecnologías-y-herramientas)
+- [Contacto](#contacto)
 
 ---
 
 ## Proyectos personales
 
 ### TRIFOR — Plataforma de Gestión de Gimnasios
+
+| Información | Detalle |
+|---|---|
+| Estado | En desarrollo |
+| Tipo | Proyecto personal |
+| Rol | Desarrollador Full Stack |
+| Arquitectura | Aplicación web |
+| Código | Privado |
 
 <p align="center">
   <img src="./assets/trifor/02-dashboard-clientes.png" alt="Panel operativo de clientes en TRIFOR" width="800">
@@ -27,7 +60,7 @@ TRIFOR es una plataforma web de administración y gestión operativa para gimnas
 #### Funciones principales
 
 - Registro y búsqueda de clientes por DNI, con carga de foto carnet.
-- Gestión de planes de membresía (altas, edición, estados activo/inactivo).
+- Gestión de planes de membresía: altas, edición y estados activo/inactivo.
 - Asistente de renovación paso a paso, con cálculo automático de vencimiento.
 - Indicadores en tiempo real de clientes activos, próximos a vencer y vencidos.
 - Módulo de notificaciones por WhatsApp con plantillas e historial de envíos.
@@ -56,6 +89,14 @@ TRIFOR es una plataforma web de administración y gestión operativa para gimnas
 
 ### Campus Santinno — Sitio Web Educativo
 
+| Información | Detalle |
+|---|---|
+| Estado | En desarrollo |
+| Tipo | Proyecto personal |
+| Rol | Desarrollador web |
+| Arquitectura | Sitio web en WordPress |
+| Código | Público |
+
 <p align="center">
   <img src="./assets/campus-santinno/01-inicio.png" alt="Página principal de Campus Santinno" width="800">
 </p>
@@ -69,7 +110,7 @@ Campus Santinno es un sitio web educativo desarrollado con WordPress para un pro
 - Catálogo de clases con buscador y filtro por categoría.
 - Página individual de cada clase con video, descripción y material descargable.
 - Formulario de contacto con datos de teléfono, correo y redes sociales.
-- Personalización mediante tema hijo (child theme) de WordPress.
+- Personalización mediante tema hijo (*child theme*) de WordPress.
 
 <p align="center">
   <img src="./assets/campus-santinno/02-acerca-de-mi.png" alt="Sección Acerca de mí" width="49%">
@@ -101,11 +142,19 @@ Campus Santinno es un sitio web educativo desarrollado con WordPress para un pro
 
 ### Pasantía como Desarrollador de Software — DIFFCODE S.A.C.
 
+| Información | Detalle |
+|---|---|
+| Empresa | DIFFCODE S.A.C. |
+| Modalidad | Remota |
+| Ubicación | Lima, Perú |
+| Rol | Desarrollador de Software |
+| Período | Abril 2026 |
+
 <p align="center">
   <img src="./assets/pasantia-dhv/01-inicio.png" alt="Sitio público del proyecto de gestión logística" width="800">
 </p>
 
-Pasantía pre-profesional remota (Lima, Perú — abril 2026), enfocada en el desarrollo de software a medida para un sistema de gestión logística internacional. Participé en el ciclo de vida del proyecto colaborando en frontend, backend y buenas prácticas de trabajo en equipo.
+Pasantía preprofesional remota enfocada en el desarrollo de software a medida para un sistema de gestión logística internacional. Participé en el ciclo de vida del proyecto, colaborando en frontend, backend y buenas prácticas de trabajo en equipo.
 
 #### Mi participación
 
@@ -113,9 +162,9 @@ Pasantía pre-profesional remota (Lima, Perú — abril 2026), enfocada en el de
 - Implementación de funcionalidades críticas en PHP para el cálculo dinámico de tarifas.
 - Validaciones técnicas, incluyendo el manejo de precisión decimal en campos de carga.
 - Gestión de datos con MySQL.
-- Trabajo colaborativo con Git y GitHub, en flujos basados en ramas (branching) y resolución de conflictos.
-- Aplicación estratégica de herramientas de IA (Gemini/LLMs) para optimizar algoritmos, depurar código y acelerar los tiempos de entrega.
-- Explicación y validación de funcionalidades junto a usuarios, facilitando la adopción de las herramientas digitales y la resolución de incidencias.
+- Trabajo colaborativo con Git y GitHub, en flujos basados en ramas (*branching*) y resolución de conflictos.
+- Aplicación estratégica de herramientas de IA, como Gemini y otros LLM, para optimizar algoritmos, depurar código y acelerar los tiempos de entrega.
+- Explicación y validación de funcionalidades junto a usuarios, facilitando la adopción de herramientas digitales y la resolución de incidencias.
 
 <p align="center">
   <img src="./assets/pasantia-dhv/02-cotizador-opciones.png" alt="Selección de tipo de envío en el cotizador" width="49%">
@@ -141,33 +190,49 @@ Pasantía pre-profesional remota (Lima, Perú — abril 2026), enfocada en el de
 ### Backend y bases de datos
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,mysql,cs,python" alt="Tecnologías backend">
+  <img src="https://skillicons.dev/icons?i=php,mysql,cs,python" alt="Tecnologías backend y bases de datos">
 </p>
 
 ### Herramientas de desarrollo
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" alt="Herramientas de desarrollo">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,postman" alt="Herramientas de desarrollo">
 </p>
 
-### Otras herramientas
+### Herramientas complementarias
 
-- XAMPP
-- Microsoft Word
-- Microsoft Excel
-- Microsoft PowerPoint
-- Power BI
+<p>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel">
+  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Microsoft Word">
+  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Microsoft PowerPoint">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
+</p>
 
 ---
 
 ## Contacto
 
-| Medio | Información |
-|---|---|
-| Correo electrónico | [benjaminpereina@gmail.com](mailto:benjaminpereina@gmail.com) |
-| LinkedIn | [Benjamín Pereira Herrera](https://www.linkedin.com/in/benjam%C3%ADn-pereira-herrera/) |
-| GitHub | [github.com/BenjaminP-H](https://github.com/BenjaminP-H) |
-| Ubicación | San Miguel de Tucumán, Argentina |
+<p align="center">
+
+<a href="mailto:benjaminpereina@gmail.com">
+  <img src="https://img.shields.io/badge/Correo-benjaminpereina%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo electrónico">
+</a>
+
+<a href="https://www.linkedin.com/in/benjam%C3%ADn-pereira-herrera/">
+  <img src="https://img.shields.io/badge/LinkedIn-Benjamin_Pereira_Herrera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://github.com/BenjaminP-H">
+  <img src="https://img.shields.io/badge/GitHub-BenjaminP--H-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+</p>
+
+<p align="center">
+  <strong>Ubicación:</strong> San Miguel de Tucumán, Argentina
+</p>
 
 ---
 
