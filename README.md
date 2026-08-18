@@ -10,32 +10,31 @@ San Miguel de Tucumán, Argentina
 
 Desarrollo soluciones web orientadas a resolver problemas reales, con experiencia en proyectos personales, académicos y una pasantía en desarrollo de software. Actualmente continúo fortaleciendo mis conocimientos en backend, bases de datos, automatización y herramientas aplicadas al desarrollo.
 
-<p>
-
-<a href="mailto:benjaminpereina@gmail.com">
-  <img src="https://img.shields.io/badge/Correo-Contactarme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo electrónico">
-</a>
-
-<a href="https://www.linkedin.com/in/benjam%C3%ADn-pereira-herrera/">
-  <img src="https://img.shields.io/badge/LinkedIn-Ver_perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://github.com/BenjaminP-H">
-  <img src="https://img.shields.io/badge/GitHub-Repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-</p>
-
 </div>
 
 ---
 
 ## Navegación
 
-- [Proyectos personales](#proyectos-personales)
-- [Experiencia profesional](#experiencia-profesional)
-- [Tecnologías y herramientas](#tecnologías-y-herramientas)
-- [Contacto](#contacto)
+<p align="center">
+
+<a href="#proyectos-personales">
+  <img src="https://img.shields.io/badge/Proyectos_Personales-181717?style=for-the-badge" alt="Proyectos personales">
+</a>
+
+<a href="#experiencia-profesional">
+  <img src="https://img.shields.io/badge/Experiencia_Profesional-181717?style=for-the-badge" alt="Experiencia profesional">
+</a>
+
+<a href="#tecnologías-y-herramientas">
+  <img src="https://img.shields.io/badge/Tecnologías-181717?style=for-the-badge" alt="Tecnologías y herramientas">
+</a>
+
+<a href="#contacto">
+  <img src="https://img.shields.io/badge/Contacto-181717?style=for-the-badge" alt="Contacto">
+</a>
+
+</p>
 
 ---
 
@@ -43,13 +42,13 @@ Desarrollo soluciones web orientadas a resolver problemas reales, con experienci
 
 ### TRIFOR — Plataforma de Gestión de Gimnasios
 
-| Información | Detalle |
-|---|---|
-| Estado | En desarrollo |
-| Tipo | Proyecto personal |
-| Rol | Desarrollador Full Stack |
-| Arquitectura | Aplicación web |
-| Código | Privado |
+| Información  | Detalle                  |
+| ------------ | ------------------------ |
+| Estado       | En desarrollo            |
+| Tipo         | Proyecto personal        |
+| Rol          | Desarrollador Full Stack |
+| Arquitectura | Aplicación web           |
+| Código       | Privado                  |
 
 <p align="center">
   <img src="./assets/trifor/02-dashboard-clientes.png" alt="Panel operativo de clientes en TRIFOR" width="800">
@@ -59,12 +58,12 @@ TRIFOR es una plataforma web de administración y gestión operativa para gimnas
 
 #### Funciones principales
 
-- Registro y búsqueda de clientes por DNI, con carga de foto carnet.
-- Gestión de planes de membresía: altas, edición y estados activo/inactivo.
-- Asistente de renovación paso a paso, con cálculo automático de vencimiento.
-- Indicadores en tiempo real de clientes activos, próximos a vencer y vencidos.
-- Módulo de notificaciones por WhatsApp con plantillas e historial de envíos.
-- Autenticación de acceso al panel operativo por gimnasio.
+* Registro y búsqueda de clientes por DNI, con carga de foto carnet.
+* Gestión de planes de membresía: altas, edición y estados activo/inactivo.
+* Asistente de renovación paso a paso, con cálculo automático de vencimiento.
+* Indicadores en tiempo real de clientes activos, próximos a vencer y vencidos.
+* Módulo de notificaciones por WhatsApp con plantillas e historial de envíos.
+* Autenticación de acceso al panel operativo por gimnasio.
 
 <p align="center">
   <img src="./assets/trifor/01-login.png" alt="Pantalla de inicio de sesión de TRIFOR" width="800">
@@ -89,13 +88,13 @@ TRIFOR es una plataforma web de administración y gestión operativa para gimnas
 
 ### Campus Santinno — Sitio Web Educativo
 
-| Información | Detalle |
-|---|---|
-| Estado | En desarrollo |
-| Tipo | Proyecto personal |
-| Rol | Desarrollador web |
+| Información  | Detalle                |
+| ------------ | ---------------------- |
+| Estado       | En desarrollo          |
+| Tipo         | Proyecto personal      |
+| Rol          | Desarrollador web      |
 | Arquitectura | Sitio web en WordPress |
-| Código | Público |
+| Código       | Público                |
 
 <p align="center">
   <img src="./assets/campus-santinno/01-inicio.png" alt="Página principal de Campus Santinno" width="800">
@@ -105,12 +104,12 @@ Campus Santinno es un sitio web educativo desarrollado con WordPress para un pro
 
 #### Funciones y características
 
-- Página principal con presentación del profesor y accesos rápidos.
-- Perfil profesional con experiencia, formación y áreas de enseñanza.
-- Catálogo de clases con buscador y filtro por categoría.
-- Página individual de cada clase con video, descripción y material descargable.
-- Formulario de contacto con datos de teléfono, correo y redes sociales.
-- Personalización mediante tema hijo (*child theme*) de WordPress.
+* Página principal con presentación del profesor y accesos rápidos.
+* Perfil profesional con experiencia, formación y áreas de enseñanza.
+* Catálogo de clases con buscador y filtro por categoría.
+* Página individual de cada clase con video, descripción y material descargable.
+* Formulario de contacto con datos de teléfono, correo y redes sociales.
+* Personalización mediante tema hijo (*child theme*) de WordPress.
 
 <p align="center">
   <img src="./assets/campus-santinno/02-acerca-de-mi.png" alt="Sección Acerca de mí" width="49%">
@@ -142,13 +141,13 @@ Campus Santinno es un sitio web educativo desarrollado con WordPress para un pro
 
 ### Pasantía como Desarrollador de Software — DIFFCODE S.A.C.
 
-| Información | Detalle |
-|---|---|
-| Empresa | DIFFCODE S.A.C. |
-| Modalidad | Remota |
-| Ubicación | Lima, Perú |
-| Rol | Desarrollador de Software |
-| Período | Abril 2026 |
+| Información | Detalle                   |
+| ----------- | ------------------------- |
+| Empresa     | DIFFCODE S.A.C.           |
+| Modalidad   | Remota                    |
+| Ubicación   | Lima, Perú                |
+| Rol         | Desarrollador de Software |
+| Período     | Abril 2026                |
 
 <p align="center">
   <img src="./assets/pasantia-dhv/01-inicio.png" alt="Sitio público del proyecto de gestión logística" width="800">
@@ -158,13 +157,13 @@ Pasantía preprofesional remota enfocada en el desarrollo de software a medida p
 
 #### Mi participación
 
-- Refactorización y optimización de interfaces con CSS3 y JavaScript, mejorando la usabilidad de formularios de cotización complejos y la visualización de datos monetarios.
-- Implementación de funcionalidades críticas en PHP para el cálculo dinámico de tarifas.
-- Validaciones técnicas, incluyendo el manejo de precisión decimal en campos de carga.
-- Gestión de datos con MySQL.
-- Trabajo colaborativo con Git y GitHub, en flujos basados en ramas (*branching*) y resolución de conflictos.
-- Aplicación estratégica de herramientas de IA, como Gemini y otros LLM, para optimizar algoritmos, depurar código y acelerar los tiempos de entrega.
-- Explicación y validación de funcionalidades junto a usuarios, facilitando la adopción de herramientas digitales y la resolución de incidencias.
+* Refactorización y optimización de interfaces con CSS3 y JavaScript, mejorando la usabilidad de formularios de cotización complejos y la visualización de datos monetarios.
+* Implementación de funcionalidades críticas en PHP para el cálculo dinámico de tarifas.
+* Validaciones técnicas, incluyendo el manejo de precisión decimal en campos de carga.
+* Gestión de datos con MySQL.
+* Trabajo colaborativo con Git y GitHub, en flujos basados en ramas (*branching*) y resolución de conflictos.
+* Aplicación estratégica de herramientas de IA, como Gemini y otros LLM, para optimizar algoritmos, depurar código y acelerar los tiempos de entrega.
+* Explicación y validación de funcionalidades junto a usuarios, facilitando la adopción de herramientas digitales y la resolución de incidencias.
 
 <p align="center">
   <img src="./assets/pasantia-dhv/02-cotizador-opciones.png" alt="Selección de tipo de envío en el cotizador" width="49%">
@@ -217,15 +216,19 @@ Pasantía preprofesional remota enfocada en el desarrollo de software a medida p
 <p align="center">
 
 <a href="mailto:benjaminpereina@gmail.com">
-  <img src="https://img.shields.io/badge/Correo-benjaminpereina%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo electrónico">
+  <img src="https://img.shields.io/badge/Contactarme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contactarme por correo">
+</a>
+
+<a href="https://wa.me/5493815849276">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contactarme por WhatsApp">
+</a>
+
+<a href="./CV/CV-Benjamin-Pereira-Herrera.pdf">
+  <img src="https://img.shields.io/badge/Ver_CV-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Ver CV">
 </a>
 
 <a href="https://www.linkedin.com/in/benjam%C3%ADn-pereira-herrera/">
-  <img src="https://img.shields.io/badge/LinkedIn-Benjamin_Pereira_Herrera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://github.com/BenjaminP-H">
-  <img src="https://img.shields.io/badge/GitHub-BenjaminP--H-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil de LinkedIn">
 </a>
 
 </p>
