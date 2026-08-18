@@ -200,12 +200,19 @@ Pasantía preprofesional remota enfocada en el desarrollo de software a medida p
 
 ### Herramientas complementarias
 
+### Herramientas complementarias
+
 <p>
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP">
+
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel">
+
   <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Microsoft Word">
+
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Microsoft PowerPoint">
+
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
 </p>
 
@@ -213,22 +220,28 @@ Pasantía preprofesional remota enfocada en el desarrollo de software a medida p
 
 ## Contacto
 
+## Contacto
+
 <p align="center">
 
-<a href="mailto:benjaminpereina@gmail.com">
-  <img src="https://img.shields.io/badge/Contactarme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contactarme por correo">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=benjaminpereina@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-benjaminpereina%40gmail.com-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Enviar correo por Gmail">
 </a>
 
-<a href="https://wa.me/5493815849276">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contactarme por WhatsApp">
+<a href="https://wa.me/5493815849276" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-3815849276-FFFFFF?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="Contactarme por WhatsApp">
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/benjam%C3%ADn-pereira-herrera/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil de LinkedIn">
 </a>
 
 <a href="./CV/CV-Benjamin-Pereira-Herrera.pdf">
-  <img src="https://img.shields.io/badge/Ver_CV-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Ver CV">
-</a>
-
-<a href="https://www.linkedin.com/in/benjam%C3%ADn-pereira-herrera/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil de LinkedIn">
+  <img src="https://img.shields.io/badge/Ver_CV-PDF-BB2B2B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Ver CV en PDF">
 </a>
 
 </p>
@@ -236,11 +249,3 @@ Pasantía preprofesional remota enfocada en el desarrollo de software a medida p
 <p align="center">
   <strong>Ubicación:</strong> San Miguel de Tucumán, Argentina
 </p>
-
----
-
-<div align="center">
-
-*Gracias por visitar mi perfil.*
-
-</div>
